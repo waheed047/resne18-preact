@@ -1,11 +1,11 @@
 # ResNet18 with Preactivation Blocks for CIFAR-10
 
-This repository contains an implementation of a ResNet18 model with Preactivation Basic Blocks for the CIFAR-10 dataset using PyTorch. The model is trained for image classification and demonstrates the use of data augmentation, learning rate scheduling, and training-validation loop setup.
+This repository contains an implementation of a ResNet18 model with Preactivation Basic Blocks for the CIFAR-10 dataset using PyTorch. The model is trained for image classification and demonstrates the use of data augmentation, learning rate scheduling, and training validation loop setup.
 
 ## Setup and Requirements
 
 1. Make sure you have Python 3.x and PyTorch installed.
-2. Clone this repository: `git clone https://github.com/your-username/resnet-preact-cifar10.git`
+2. Clone this repository: `git clone https://github.com/waheed047/resnet-preact-cifar10.git`
 3. Install required packages: `pip install -r requirements.txt`
 
 ## Usage
